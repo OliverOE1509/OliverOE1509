@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OliverOE1509
-- 👀 I’m interested in ... Investing strategies, finance and data science
+- 👀 I’m interested in ... Investing strategies, Coding, automation
 - 🌱 I’m currently learning ... Data Science for business
-- 💞️ I’m looking to collaborate on ... Investing strategies
+- 💞️ I’m looking to collaborate on ... Investing strategies, IT/Programming
 - 📫 How to reach me; (email: oliveroekeberg@gmail.com, linkedin: www.linkedin.com/in/oliver-ekeberg)
 
 <!---
