@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OliverOE1509
-- 👀 I’m interested in ... algorithmic trading, automation
+- 👀 I’m interested in ... algorithmic trading, automation and unsupervised learning
 - 🌱 I’m currently learning ... Data Science
-- 💞️ I’m looking to collaborate on ... Investing strategies, IT/Programming
+- 💞️ I’m looking to collaborate on ... information technology/Programming, AI and innovative algorithms 
 - 📫 How to reach me; (email: oliveroekeberg@gmail.com, linkedin: www.linkedin.com/in/oliver-ekeberg) or message me at facebook (Oliver Ekeberg)
 
 <!---
